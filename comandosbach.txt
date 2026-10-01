@@ -5,3 +5,4 @@ cd ..(sobe uma pasta acimmma)
 clear(limp
 pwd(caminho absoluto)
 mkdir(cria pastaaa)
+sla
