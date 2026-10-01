@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 curasfazrfg
+=======
+curasfa!
+>>>>>>> eu
