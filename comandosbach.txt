@@ -4,4 +4,4 @@ cd(muda o diretorio)
 cd ..(sobe uma pasta acimmma)
 clear(limp
 pwd(caminho absoluto)
-mkdir(cria pasta)
+mkdir(cria pastaa)

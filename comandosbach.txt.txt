@@ -1,7 +1,0 @@
-ls(lista oq tem no diretorio)
-ls -a(arquvo oocultos)
-cd(muda o diretorio)
-cd ..(sobe uma pasta acimmma)
-clear(limp
-pwd(caminho absoluto)
-mkdir(cria pasta)
