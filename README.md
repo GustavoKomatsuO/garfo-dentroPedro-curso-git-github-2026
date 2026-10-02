@@ -1,1 +1,5 @@
-# Curso Git E GitHub TWM 2026
+# Curso Git E GitHub TMW 2026
+
+Um curso para iniciantes
+aprenderem a trabalhar com
+versionamento do git e github
